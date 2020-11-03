@@ -1,0 +1,40 @@
+.burgerMenu_userIcon {
+  color: white;
+}
+
+.burgerMenu_dropdown {
+  color: black;
+}
+
+.MuiMenu-list {
+  background-color: #131a22;
+  padding: 15px 30px 15px 30px;
+  margin-right: auto;
+}
+.MuiListItem-root {
+  justify-content: flex-end !important;
+}
+.MuiButton-root {
+  min-width: 0px !important;
+  padding: 0;
+}
+.MuiButton-text {
+  padding: 0 !important;
+}
+
+.MuiPopover-paper {
+  top: 60px !important;
+}
+.burgerMenu_option1-1 {
+  font-weight: 900;
+  color: white;
+}
+.burgerMenu_option1-2 {
+  font-size: 15px;
+  color: white;
+}
+.burgerMenu_user {
+  text-align: right;
+  border-bottom: 1px solid gray;
+  padding-bottom: 20px;
+}

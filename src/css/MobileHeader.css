@@ -1,0 +1,13 @@
+.mobileHeader_optionBasket {
+  margin-left: 10px;
+  display: flex;
+  align-items: top;
+  color: white;
+}
+.mobileHeader_userIcon {
+  padding-right: 10px;
+}
+
+.mobileHeader_basketCount {
+  padding: 0 10px 0 5px;
+}
